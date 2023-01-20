@@ -45,7 +45,7 @@ Beloved people and entities that workwith us hand in hand to curate the best TED
 |![Tassaa](images/tassaa-brand-logo.png)|<https://tassaa.org>|
 |![Feza Alumni](images/feza-alumni-logo.png) |<http://fezaalumni.org/>|
 |![Feza Schools](images/feza-schools-logo.png)|<https://fezaschools.org/>|
-|![University Of Dar es salaam Debate Society](images/udsm-debate-logo.png)|<>|
+|![University Of Dar es salaam Debate Society](images/udsm-debate-logo.png)|<https://www.instagram.com/udsmdebate/>|
 |![Azam Game Centre](images/azam-bandar-logo.png)|<https://www.bandarservice.com/>|
 |![AW](images/aw-logo.png)|_not-present_|
 
